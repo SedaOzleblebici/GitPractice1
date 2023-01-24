@@ -3,5 +3,6 @@ public class Test {
 
 //        ffds
         System.out.println("silent");
+        System.out.println("voice");
     }
 }
