@@ -3,6 +3,6 @@ public class Test {
 
 //        ffds
         System.out.println("silent");
-        System.out.println("bu bir deneme");
+        System.out.println("bu bir deneme.");
     }
 }
